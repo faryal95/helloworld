@@ -1,0 +1,11 @@
+using namesapce std;
+#include <iostream>
+#include <conio.h>
+
+main()
+{ string input;
+  cout << "What is your name" << endl ;
+  Cin >> input;
+
+  getch();
+}
